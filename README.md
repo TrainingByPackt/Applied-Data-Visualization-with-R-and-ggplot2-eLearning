@@ -1,11 +1,11 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Applied-Data-Visualization-with-ggplot2-and-R.svg)](https://github.com/TrainingByPackt/Applied-Data-Visualization-with-ggplot2-and-R/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Applied-Data-Visualization-with-ggplot2-and-R.svg)](https://github.com/TrainingByPackt/Applied-Data-Visualization-with-ggplot2-and-R/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Applied-Data-Visualization-with-ggplot2-and-R.svg)](https://github.com/TrainingByPackt/Applied-Data-Visualization-with-ggplot2-and-R/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Applied-Data-Visualization-with-ggplot2-and-R/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Applied-Data-Visualization-with-R-and-ggplot2-eLearning.svg)](https://github.com/TrainingByPackt/Applied-Data-Visualization-with-ggplot2-and-R/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Applied-Data-Visualization-with-R-and-ggplot2-eLearning.svg)](https://github.com/TrainingByPackt/Applied-Data-Visualization-with-R-and-ggplot2-eLearning/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Applied-Data-Visualization-with-R-and-ggplot2-eLearning.svg)](https://github.com/TrainingByPackt/Applied-Data-Visualization-with-R-and-ggplot2-eLearning/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Applied-Data-Visualization-with-R-and-ggplot2-eLearning/pulls)
 
 
 
-# Applied Data Visualization with ggplot2 and R
+# Applied Data Visualization with R and ggplot2
 When data is presented to you in a graphical or pictorial format, you can analyze it more effectively. This course begins by introducing you to basic concepts, such as grammar of graphics and geometric objects. It then goes on to explain these concepts in detail with examples. Once you are comfortable with basics, you can learn all about the advanced plotting techniques, such as box plots and density plots. With this course, you can transform data into the useful material and make data analysis interesting and fun.
 
 
