@@ -1,4 +1,4 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Applied-Data-Visualization-with-R-and-ggplot2-eLearning.svg)](https://github.com/TrainingByPackt/Applied-Data-Visualization-with-ggplot2-and-R/issues)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Applied-Data-Visualization-with-R-and-ggplot2-eLearning.svg)](https://github.com/TrainingByPackt/Applied-Data-Visualization-with-R-and-ggplot2-eLearning/issues)
 [![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Applied-Data-Visualization-with-R-and-ggplot2-eLearning.svg)](https://github.com/TrainingByPackt/Applied-Data-Visualization-with-R-and-ggplot2-eLearning/network)
 [![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Applied-Data-Visualization-with-R-and-ggplot2-eLearning.svg)](https://github.com/TrainingByPackt/Applied-Data-Visualization-with-R-and-ggplot2-eLearning/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Applied-Data-Visualization-with-R-and-ggplot2-eLearning/pulls)
